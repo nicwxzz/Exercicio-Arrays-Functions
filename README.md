@@ -1,1 +1,0 @@
-# Exercicio-Arrays-Functions
